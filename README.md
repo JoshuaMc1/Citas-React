@@ -1,4 +1,4 @@
-# Veterinary Appointments App
+# Vettrack
 
 ¡Bienvenido/a a la aplicación de citas veterinarias! Esta aplicación ha sido construida con tecnologías modernas como React, TailwindCSS y Vite para proporcionar una experiencia de usuario eficiente y agradable.
 
@@ -37,6 +37,6 @@ La aplicación estará disponible en [http://localhost:5173](http://localhost:51
 
 ## Licencia
 
-Este proyecto está bajo la licencia [MIT](LICENSE.md).
+Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
 
 ¡Esperamos que disfrutes usando la aplicación de citas veterinarias! Si tienes alguna pregunta o encuentras problemas, no dudes en abrir un problema en el [repositorio](https://github.com/JoshuaMc1/Citas-React.git). ¡Gracias por tu contribución!
